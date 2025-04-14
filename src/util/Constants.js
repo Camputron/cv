@@ -9,7 +9,7 @@ const ABOUT_DESC = "Computer Science graduate with 7 years of programming experi
 
 const SOCIAL_CONTACTS = [
     { id: 'github', src: Github, link: 'https://github.com/CamposmDev' },
-    { id: 'linkedin', src: LinkedIn, link: 'https://linkedin.com/in/michael-campos1' },
+    { id: 'linkedin', src: LinkedIn, link: 'https://linkedin.com/in/campsom' },
     { id: 'email', src: Email, link: 'mailto:camposm.dev@gmail.com' }
 ]
 
